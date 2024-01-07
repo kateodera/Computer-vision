@@ -7,6 +7,9 @@
   <img width="2000" src="https://github.com/kateodera/Computer-vision/blob/main/Computer%20vision%20results/HSV%20color%20composite.PNG">
   <h3>Image difference</h3>
   <img width="2000" src="https://github.com/kateodera/Computer-vision/blob/main/Computer%20vision%20results/Image%20difference.PNG">
+  <h3>Contrast stretching</h3>
+  <img width="2000" src="https://github.com/kateodera/Computer-vision/blob/main/Computer%20vision%20results/Lena.PNG">
+  <img width="2000" src="https://github.com/kateodera/Computer-vision/blob/main/Computer%20vision%20results/Contrast%20stretching.PNG">
 </d>
 <d align="center">
   <h2>Parcel boundary detection</h2>
